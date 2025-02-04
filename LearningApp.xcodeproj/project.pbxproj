@@ -75,10 +75,10 @@
 		0FC264EE2D2063C900FF5AE9 = {
 			isa = PBXGroup;
 			children = (
-				0FC264F92D2063C900FF5AE9 /* LearningApp */,
 				0FC2650A2D2063CB00FF5AE9 /* LearningAppTests */,
 				0FC265142D2063CB00FF5AE9 /* LearningAppUITests */,
 				0FC264F82D2063C900FF5AE9 /* Products */,
+				0FC264F92D2063C900FF5AE9 /* LearningApp */,
 			);
 			sourceTree = "<group>";
 		};
@@ -396,6 +396,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"LearningApp/Preview Content\"";
+				DEVELOPMENT_TEAM = KJWDR3LFDY;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -424,6 +425,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"LearningApp/Preview Content\"";
+				DEVELOPMENT_TEAM = KJWDR3LFDY;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
